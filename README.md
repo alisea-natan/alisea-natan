@@ -1,5 +1,3 @@
 ### Welcome
 
-I'm Alisa Chupakhina, a QA/Python developer interested in ML. I am initiative, I love it when the world is logical and I want to do what I really love - to make life easier for people and to improve the world. I love the word “impossible” and I know how to make the impossible happen.
-
-Now I participate not only in autotesting, but also in a project with machine learning and I am interested in both of these areas.
+As a QA/Python developer with experience in machine learning and data analysis, I am passionate about continuous growth and development. I have strong technical skills in a variety of programming languages and tools, as well as experience in developing algorithms, providing ML solutions, and creating web applications. I am a proactive and logical thinker who loves to tackle complex challenges and make the impossible happen.
